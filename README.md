@@ -1,4 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmed El Lithy
+
+### 🐍 Python Developer | Student | AI Enthusiast
+
+Welcome to my GitHub profile!
+
+I'm a programming student passionate about Python, problem-solving, and Artificial Intelligence.
+
+## 🚀 About Me
+- 🎓 Programming Student
+- 🐍 Learning Python
+- 🧠 Interested in Artificial Intelligence
+- 💻 Building practical projects
+
+## 🛠️ Skills
+- Python
+- Object-Oriented Programming (OOP)
+- Problem Solving
+- Programming Fundamentals
+
+## 📂 My Projects
+- 🌱 Smart Farm Project
+- 🐍 Python Applications
+
+## 🎯 My Goal
+To become a professional software developer
+and build useful technology projects.
+
+---
+
+Thanks for visiting my profile! ⭐## Hi there 👋
 
 <!--
 **AhmedEllithy-dev/AhmedEllithy-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
